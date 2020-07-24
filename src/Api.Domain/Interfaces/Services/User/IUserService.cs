@@ -6,7 +6,7 @@ namespace Api.Domain.Interfaces.Services.User
 {
      public interface IUserService
      {
-         Task<UserEntity> GetUser(long id);
+         Task<UserEntity> GetUserById(long id);
          Task<IEnumerable<UserEntity>> GetAllUsers();
          Task<UserEntity> CreateUser(UserEntity user);
          Task<UserEntity> UpdateUser(UserEntity user);

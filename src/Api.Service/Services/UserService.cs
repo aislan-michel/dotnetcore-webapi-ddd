@@ -30,7 +30,7 @@ namespace Api.Service.Services
                return await _repository.SelectAsync();
           }
 
-          public async Task<UserEntity> GetUser(long id)
+          public async Task<UserEntity> GetUserById(long id)
           {
                return await _repository.SelectAsync(id);
           }
