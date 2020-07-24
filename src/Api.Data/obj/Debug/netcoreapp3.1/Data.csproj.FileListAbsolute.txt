@@ -7,3 +7,15 @@ D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Ar
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

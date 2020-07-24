@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7MXw98SyxEgIUX6TO4huTBSumg9G/mZQ50ZCagzhibffpRWj1K0+PqdGnDxF9wiXTTaHPe43fCJ0pS8WNHITXg==",
+  "dgSpecHash": "bjpM16hhRMJbJbTJOtJkG3EYxttHqr0UPZG4SbpKK1Kawhqf5y8fBdoDUj6ckYbsTU6F88/L/3O3mhOGqwc8pQ==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

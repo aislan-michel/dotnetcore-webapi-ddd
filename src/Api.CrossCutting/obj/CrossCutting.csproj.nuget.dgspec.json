@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

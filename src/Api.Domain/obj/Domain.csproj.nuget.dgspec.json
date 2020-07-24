@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Domain\\Domain.csproj": {}
+    "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Domain\\Domain.csproj": {
+    "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Domain\\obj\\",
+        "outputPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

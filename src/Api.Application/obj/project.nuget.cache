@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kqNLmbnRuMIhLJX7HhSolmzdxGadRYNv9xNqgjKF60es8NJEdbnGXXvoy/n2vS+tvDlYHk/KG3Hwgk9DygjO2Q==",
+  "dgSpecHash": "WU6CFkAFkW/jOzPPRx2iIDPwKD8286EUIZMXKJRzFxD+Bldnoeafsi3fFCEdv0OIf5xN3FmkXRVIhd73Dmb9Eg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Application\\application.csproj",
+  "projectFilePath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

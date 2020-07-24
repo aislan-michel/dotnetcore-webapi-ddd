@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Service\\Service.csproj",
+      "projectUniqueName": "d:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Service\\Service.csproj",
+      "projectPath": "d:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Service\\Service.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\ASP.NET CORE 3.1 - API com Arquitetura DDD\\src\\Api.Service\\obj\\",
+      "outputPath": "d:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
