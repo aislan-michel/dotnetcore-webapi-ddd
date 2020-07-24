@@ -1,0 +1,8 @@
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\ASP.NET CORE 3.1 - API com Arquitetura DDD\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
