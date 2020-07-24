@@ -4,7 +4,7 @@ using Api.Domain.Entities;
 
 namespace Api.Domain.Interfaces.Services.User
 {
-     public interface IUserInterface
+     public interface IUserService
      {
          Task<UserEntity> GetUser(long id);
          Task<IEnumerable<UserEntity>> GetAllUsers();

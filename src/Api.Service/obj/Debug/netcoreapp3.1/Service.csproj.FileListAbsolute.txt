@@ -15,3 +15,10 @@ D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
