@@ -14,3 +14,4 @@ D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache

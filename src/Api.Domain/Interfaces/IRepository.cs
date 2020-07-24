@@ -4,12 +4,13 @@ using Api.Domain.Entities;
 
 namespace Api.Domain.Interfaces
 {
-     public interface IRepository<T> where T : BaseEntity
+     public interface IRepository<Table> where Table : BaseEntity
      {
-          Task<T> InsertAsync(T item);
-          Task<T> UpdateAsync(T item);
+          Task<Table> InsertAsync(Table entity);
+          Task<Table> UpdateAsync(Table entity);
           Task<bool> DeleteAsync(long id);
-          Task<T> SelectAsync(long id);
-          Task<IEnumerable<T>> SelectAsync();
+          Task<Table> SelectAsync(long id);
+          Task<IEnumerable<Table>> SelectAsync();
+          Task<bool> ExistAsync(long id);
      }
 }
