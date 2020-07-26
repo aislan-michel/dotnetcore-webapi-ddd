@@ -12,13 +12,13 @@ D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
-D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
-D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
-D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
