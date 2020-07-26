@@ -3,6 +3,7 @@ using System.Net;
 using System.Threading.Tasks;
 using Api.Domain.Entities;
 using Api.Domain.Interfaces.Services.User;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Application.Controllers
@@ -18,6 +19,7 @@ namespace Api.Application.Controllers
                _userService = service;
           }
 
+          [Authorize("Bearer")]
           [HttpGet]
           public async Task<ActionResult> GetAllUsers()
           {
@@ -36,6 +38,7 @@ namespace Api.Application.Controllers
                }
           }
 
+          [Authorize("Bearer")]
           [HttpGet]
           [Route("{id}", Name = "GetUserById")]
           public async Task<ActionResult> GetUserById(long id)
@@ -55,6 +58,7 @@ namespace Api.Application.Controllers
                }
           }
 
+          [Authorize("Bearer")]
           [HttpPost("CreateUser")]
           public async Task<ActionResult> CreateUser([FromBody] UserEntity user)
           {
@@ -81,6 +85,7 @@ namespace Api.Application.Controllers
                }
           }
 
+          [Authorize("Bearer")]
           [HttpPut("UpdateUser")]
           public async Task<ActionResult> UpdateUser([FromBody] UserEntity user)
           {

@@ -90,3 +90,10 @@ D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\dotnetcore-webapi-ddd\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
