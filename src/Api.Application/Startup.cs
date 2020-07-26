@@ -32,7 +32,7 @@ namespace Api.Application
                     s.SwaggerDoc("v1", new OpenApiInfo
                     {
                          Version = "v1",
-                         Title = "API com AspNetCore 3.1",
+                         Title = "Curso de API com AspNetCore 3.1",
                          Description = "Arquitetura DDD",
                          TermsOfService = new Uri("https://github.com/aislanmi/dotnetcore-webapi-ddd"),
                          Contact = new OpenApiContact
@@ -55,7 +55,7 @@ namespace Api.Application
                app.UseSwagger();
                app.UseSwaggerUI(s => 
                {
-                    s.SwaggerEndpoint("/swagger/v1/swagger.json", "API com AspNetCore 3.1");
+                    s.SwaggerEndpoint("/swagger/v1/swagger.json", "Curso de API com AspNetCore 3.1");
                     s.RoutePrefix = string.Empty;
                });
 
