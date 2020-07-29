@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wVRkekrCo0UCLLyrV/3iRLQLAm96d7zCZD2dwrg+QH2A2vrcFi/jNTvhhczymxFNNpYzI1bfiZKs/D9L5FmNVg==",
+  "dgSpecHash": "jZZqle0I0RGzc/37F/SxA4sZNY9ehn59LSMzVApO9l3NYKDEhzkP7bYhD30HnGcmpCud89/RhNxjZKmyRYxyfQ==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Service\\Service.csproj",
+  "projectFilePath": "d:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",

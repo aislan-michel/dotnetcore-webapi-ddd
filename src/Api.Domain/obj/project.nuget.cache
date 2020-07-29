@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K9te+BB4nFGrnoPLSx6vvLLwhJexavOCC0hM4HOtXY5VFuRrGYlbY8DoDzADsJb9ezMSPed8h01A4YMTksyfyg==",
+  "dgSpecHash": "1AnSDoNQkodawiccisFvFwotuSjeEOJOCGTbQaCx9gRQBpR3/hrZ2LcXwEu4dzWC5a08QnoxtGj4Iw+cRhAoZw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "d:\\Users\\Sistema de arquivos\\Documents\\aq\\Projetos\\dotnetcore-webapi-ddd\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
